@@ -1,0 +1,11 @@
+Output: PADS ASCII Netlist
+Type  : PADSNetlist
+From  : Project [Motor Controller.PrjPcb]
+   Generated File[Motor Controller.NET]
+   Generated File[Motor Controller.PRT]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 2:37:45 PM On 9/27/2021

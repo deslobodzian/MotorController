@@ -1,0 +1,22 @@
+Initial Concept.
+
+MicroController:
+	- STM32H743VIT6
+
+Driver:
+	-DRV8353HMRTAT 
+		- SPI / I2C
+		Smart Gate Driver
+Buck Regulator: 
+	-LM5008MM/NOPB
+
+MOSFET:
+	-SiR680ADP
+
+Encoder:
+	-AS5247-HMFM
+		-https://ams.com/documents/20143/36005/AS5247_DS000354_2-00.pdf
+
+CANFD Transciever:
+	-TCAN337GDR
+		-https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftcan337
